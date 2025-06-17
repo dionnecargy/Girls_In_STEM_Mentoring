@@ -92,23 +92,25 @@ These are called [coding languages]{.purple-emph} or simply [coding]{.purple-emp
 ## What are antigens and antibodies?
 
 \
-Antibodies are 
+[Antigens]{.purple-emph} are foreign substances, such as bacteria, fungi, viruses and toxins. 
 
 . . . 
 
-Antigens are 
+[Antibodies]{.purple-emph} are protective proteins produced by your immune system. They attach to [antigens]{.purple-emph} and remove them from your body. 
 
 . . . 
 
-Immunologists use machines like the MAGPIX to test antibody responses to multiple antigens in a blood sample!
+Immunologists use machines like the [MAGPIX]{.purple-emph} to test antibody responses to multiple antigens in a blood sample!
 
 ## My work at WEHI
 
-\
 Because I like [coding]{.purple-emph}, I was tasked with making a website application to convert the raw data into a format that can be used to predict whether a person has a malaria infection or not! 
 
 . . . 
 
+{{< video images/1_inputtingdata_short.mp4 >}}
+
+:::{.notes}
 This involved: 
 
 - A dataset that looks like this: 
@@ -116,6 +118,19 @@ This involved:
 - Cleaning it up to look like this:
 
 - Then applying a machine learning algorithm so it can produce a result like this: 
+:::
+
+## My work at WEHI
+
+Because I like [coding]{.purple-emph}, I was tasked with making a website application to convert the raw data into a format that can be used to predict whether a person has a malaria infection or not! 
+
+![](images/6.1_classify_tute_1.png)
+
+## My work at WEHI
+
+Because I like [coding]{.purple-emph}, I was tasked with making a website application to convert the raw data into a format that can be used to predict whether a person has a malaria infection or not! 
+
+![](images/6.3_classify_tute_2.png)
 
 # Example 2: An Infectious Disease Outbreak 
 
@@ -385,35 +400,15 @@ ggmap(melb_map)+
 
 ## Other Examples Where R and Coding Can Be Harnessed Include: 
 
-. . . 
+- You can make your own PDF or Word Document
 
-- ...
+- Applications
 
-. . . 
+- Websites 
 
-- ... 
+- Complex analyses and statistics (main purpose)
 
-## Today we have learnt...
-
-. . .
-
-🦠 what are pathogens and what are outbreaks
-
-. . .
-
-🌎 Who are epidemiologists
-
-. . .
-
-🔢 What is R
-
-. . .
-
-📊 How to make plots with ggplot
-
-. . .
-
-📈 How to organise and arrange complex data
+- This presentation! 
 
 ::: {.notes}
 Tell teachers that we are happy to provide resources for coding enthusiasts.
@@ -431,3 +426,5 @@ Tell teachers that we are happy to provide resources for coding enthusiasts.
 [R-Graph Gallery](https://r-graph-gallery.com/)
 
 :::
+
+# Thank you! 
