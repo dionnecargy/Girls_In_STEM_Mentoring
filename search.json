@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "slides.html#TitleSlide",
+    "href": "slides.html#TitleSlide",
+    "title": "Slides",
+    "section": "The Other Side of Science: Where Data Tells the Story",
+    "text": "The Other Side of Science: Where Data Tells the Story\nPresented by\nDr Dionne C. Argyropoulos"
+  },
+  {
+    "objectID": "slides.html#moving-from-the-lab-to-the-computer",
+    "href": "slides.html#moving-from-the-lab-to-the-computer",
+    "title": "Slides",
+    "section": "Moving from the lab to the computer",
+    "text": "Moving from the lab to the computer\nPractical laboratory work\n\n\n\n\nComputational/Data analysis\n\n\n\n\nLink what was covered in the lab tours to the computer-based work."
+  },
+  {
+    "objectID": "slides.html#how-can-we-use-our-lab-data",
+    "href": "slides.html#how-can-we-use-our-lab-data",
+    "title": "Slides",
+    "section": "How can we use our lab data?",
+    "text": "How can we use our lab data?\n\nUsing the results of our experiments, or from other sources, we obtain data!\n\n\nWe use many different languages to communicate what we would like to see from our data.\n\n\nThese are called coding languages or simply coding."
+  },
+  {
+    "objectID": "slides.html#what-is-coding-and-what-is-r",
+    "href": "slides.html#what-is-coding-and-what-is-r",
+    "title": "Slides",
+    "section": "What is coding and what is R ?",
+    "text": "What is coding and what is R ?\n\nCoding involves writing instructions that a machine or computer can understand to perform a task.\n\n\n\n   \n\n\n\nR is coding language used in statistics, data science and many other disciplines. It is also very powerful tool for visualising data."
+  },
+  {
+    "objectID": "slides.html#why-should-you-learn-r",
+    "href": "slides.html#why-should-you-learn-r",
+    "title": "Slides",
+    "section": "Why should you learn R ?",
+    "text": "Why should you learn R ?\n\n⚖️ R is free, open source and everyone can access\n\n\n\n🥳 It can do so many things\n\n\n\n📚 Lots of resources to learn and perform tasks, with a very large user community\n\n\n\n🧑‍🎓 You can get a super cool job ! It’s a fantastic skill that is highly sought after in the work force."
+  },
+  {
+    "objectID": "slides.html#what-are-antigens-and-antibodies",
+    "href": "slides.html#what-are-antigens-and-antibodies",
+    "title": "Slides",
+    "section": "What are antigens and antibodies?",
+    "text": "What are antigens and antibodies?\n\nAntigens are foreign substances, such as bacteria, fungi, viruses and toxins.\n\nAntibodies are protective proteins produced by your immune system. They attach to antigens and remove them from your body.\n\n\nImmunologists use machines like the MAGPIX to test antibody responses to multiple antigens in a blood sample!"
+  },
+  {
+    "objectID": "slides.html#my-work-at-wehi",
+    "href": "slides.html#my-work-at-wehi",
+    "title": "Slides",
+    "section": "My work at WEHI",
+    "text": "My work at WEHI\nBecause I like coding, I was tasked with making a website application to convert the raw data into a format that can be used to predict whether a person has a malaria infection or not!\n\n\n\nThis involved:\n\nA dataset that looks like this:\nCleaning it up to look like this:\nThen applying a machine learning algorithm so it can produce a result like this:"
+  },
+  {
+    "objectID": "slides.html#my-work-at-wehi-1",
+    "href": "slides.html#my-work-at-wehi-1",
+    "title": "Slides",
+    "section": "My work at WEHI",
+    "text": "My work at WEHI\nBecause I like coding, I was tasked with making a website application to convert the raw data into a format that can be used to predict whether a person has a malaria infection or not!"
+  },
+  {
+    "objectID": "slides.html#my-work-at-wehi-2",
+    "href": "slides.html#my-work-at-wehi-2",
+    "title": "Slides",
+    "section": "My work at WEHI",
+    "text": "My work at WEHI\nBecause I like coding, I was tasked with making a website application to convert the raw data into a format that can be used to predict whether a person has a malaria infection or not!"
+  },
+  {
+    "objectID": "slides.html#what-are-infectious-diseases",
+    "href": "slides.html#what-are-infectious-diseases",
+    "title": "Slides",
+    "section": "What are infectious diseases?",
+    "text": "What are infectious diseases?\n\n🦠 Infectious diseases are caused by certain microorganisms, such as bacteria, viruses, parasites or fungi, and will make people (or animals) sick when they are exposed to these microorganisms.\n\n💭 Most microorganisms don’t make us sick, but some do, and these are known as pathogens.\n\n\n🤧 There are lots of different ways that you might get an infectious disease. Some ways include breathing respiratory droplets, eating contaminated food or water, insect bites and many many more !"
+  },
+  {
+    "objectID": "slides.html#when-do-infectious-diseases-cause-outbreaks",
+    "href": "slides.html#when-do-infectious-diseases-cause-outbreaks",
+    "title": "Slides",
+    "section": "When do infectious diseases cause outbreaks?",
+    "text": "When do infectious diseases cause outbreaks?\n📚The World Health Organisation definition of an outbreak:\n\n💡 “occurence of disease in excess of normal”\n\n\nThis might be because of a new pathogen, bringing pathogens to new areas, a mutating pathogen.\n\n\n\nMany infectious diseases now have vaccines that mean outbreaks to these pathogens occur much less frequently (for example: measles, chicken pox, influenza etc.)"
+  },
+  {
+    "objectID": "slides.html#how-can-we-analyse-outbreaks",
+    "href": "slides.html#how-can-we-analyse-outbreaks",
+    "title": "Slides",
+    "section": "How can we analyse outbreaks?",
+    "text": "How can we analyse outbreaks?\n\n\n\nWhat is the problem ?\nWhat is the cause?\nWhat can we do to make the situation better?"
+  },
+  {
+    "objectID": "slides.html#the-excursion",
+    "href": "slides.html#the-excursion",
+    "title": "Slides",
+    "section": "The excursion",
+    "text": "The excursion\nUnknown illness causes students to fall ill at local school.\nLocal authorities are unsure of the cause of this outbreak, but it appears to be linked to a recent excursion to Melbourne CBD\nA few days earlier, students at a local school went into Melbourne to see an exhibition at the National Gallery of Victoria.\n\n\n🚌 At 8am, they took the bus to the NGV.\n\n\n🎨 They were in the gallery from 9am - 12pm.\n\n\n🍲 They had lunch from 12pm - 2pm at three different locations\n\n\n🧑‍🎨 They went back to the gallery for another exhibition between 2 -4 pm\n\n\n🏡 At 4pm they were back on the bus to go home"
+  },
+  {
+    "objectID": "slides.html#you-have-been-given-some-information-in-a-dataset",
+    "href": "slides.html#you-have-been-given-some-information-in-a-dataset",
+    "title": "Slides",
+    "section": "You have been given some information in a dataset",
+    "text": "You have been given some information in a dataset\n\nIncluding:\n\n\nName\nClass\nAge\nSex\n\n\nHeight\nWeight\nWas the student feeling sick\nWhat were their symptoms\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfirstname\nclass\nheight\nweight\nage\nsex\ntemperature\nsickness\nshortness_of_breath\nchills\npalpitation\nbloody_stools\npain_chest\nabdominal_cramps\ndizziness\nnausea\nvomiting\nvertigo\ncough\nfever\ndiarrhea\nconstipation\nheadache\npain_abdominal\nthroat_sore\nmuscle_pains\n\n\n\n\nPaul\nA\n61.7\n42\n12\nM\n40\nyes\nno\nyes\nyes\nyes\nyes\nyes\nno\nyes\nyes\nno\nyes\nyes\nyes\nno\nyes\nyes\nno\nyes\n\n\nJulie\nC\n60.0\n45\n10\nF\n39\nyes\nno\nyes\nno\nyes\nno\nyes\nno\nyes\nyes\nno\nno\nyes\nyes\nno\nyes\nyes\nno\nyes\n\n\nNat\nB\n60.5\n44\n11\nF\n37\nno\nno\nno\nno\nno\nno\nno\nyes\nno\nno\nno\nno\nno\nno\nno\nno\nno\nno\nno\n\n\nDamien\nD\n61.7\n43\n12\nM\n39\nyes\nno\nyes\nno\nyes\nno\nyes\nno\nyes\nyes\nno\nno\nyes\nyes\nno\nyes\nyes\nno\nyes\n\n\nEric\nA\n62.0\n42\n13\nM\n36\nno\nyes\nno\nno\nno\nno\nno\nyes\nno\nno\nno\nno\nno\nno\nno\nno\nno\nno\nno\n\n\nSimon\nA\n62.3\n45\n12\nM\n39\nyes\nno\nyes\nno\nyes\nno\nyes\nno\nyes\nyes\nno\nno\nyes\nyes\nno\nyes\nyes\nno\nyes\n\n\n\n\n\n\n\nAnd we can then ask questions with these data in R !"
+  },
+  {
+    "objectID": "slides.html#data-visualisation-our-gateway-to-interpreting-our-data",
+    "href": "slides.html#data-visualisation-our-gateway-to-interpreting-our-data",
+    "title": "Slides",
+    "section": "Data Visualisation: Our gateway to interpreting our data",
+    "text": "Data Visualisation: Our gateway to interpreting our data\n\nAn important variable to look at when it comes to disease would be temperature.\n\n\nWe can use a dot or point graph to identify the temperature (y-axis) of each individual in our class (x-axis)."
+  },
+  {
+    "objectID": "slides.html#a-boxplot-summarising-temperature-in-the-four-classes",
+    "href": "slides.html#a-boxplot-summarising-temperature-in-the-four-classes",
+    "title": "Slides",
+    "section": "A boxplot summarising temperature in the four classes",
+    "text": "A boxplot summarising temperature in the four classes"
+  },
+  {
+    "objectID": "slides.html#a-boxplot-summarising-temperature-in-the-four-classes-1",
+    "href": "slides.html#a-boxplot-summarising-temperature-in-the-four-classes-1",
+    "title": "Slides",
+    "section": "A boxplot summarising temperature in the four classes",
+    "text": "A boxplot summarising temperature in the four classes\n\n\nWhat does temperature tell us about how the students were feeling?\n\n\nWere the temperatures the same for students who were sick and those who weren’t\nWhere the sick students in all classes\nWhy do people get a temperature when they get sick?"
+  },
+  {
+    "objectID": "slides.html#lets-focus-on-the-students-symptoms",
+    "href": "slides.html#lets-focus-on-the-students-symptoms",
+    "title": "Slides",
+    "section": "Let’s focus on the student’s symptoms",
+    "text": "Let’s focus on the student’s symptoms\n\nThere were 11 students that were sick, and 18 that were not sick.\n\n\nBut what is making the students sick ?"
+  },
+  {
+    "objectID": "slides.html#what-symptoms-do-the-sick-students-have",
+    "href": "slides.html#what-symptoms-do-the-sick-students-have",
+    "title": "Slides",
+    "section": "What symptoms do the sick students have ?",
+    "text": "What symptoms do the sick students have ?\n\nWhat does this graph tell us?\n\nWhat are the symptoms of those that are sick?\nWhat might be some causes of illness that give these symptoms?\n\n\nLikely cause…"
+  },
+  {
+    "objectID": "slides.html#what-is-salmonella",
+    "href": "slides.html#what-is-salmonella",
+    "title": "Slides",
+    "section": "What is salmonella?",
+    "text": "What is salmonella?\n\nA bacterial infection\nCommonly from contaminated food\nExamples…undercooked chicken, raw egg, insufficient cleaning\nYou can start to feel sick within 6 to 36 hours after eating"
+  },
+  {
+    "objectID": "slides.html#where-did-the-students-get-sick",
+    "href": "slides.html#where-did-the-students-get-sick",
+    "title": "Slides",
+    "section": "Where did the students get sick?",
+    "text": "Where did the students get sick?\n🎨 At the gallery?\n\n🚌 On the bus?\n\n\n🍲 At lunch?"
+  },
+  {
+    "objectID": "slides.html#wait-we-have-some-more-information",
+    "href": "slides.html#wait-we-have-some-more-information",
+    "title": "Slides",
+    "section": "WAIT ! We have some more information",
+    "text": "WAIT ! We have some more information\n🍲 We have just been sent some information about where the student’s ate lunch !\n\nThey ate at three different restaurants !"
+  },
+  {
+    "objectID": "slides.html#using-r-we-can-plot-where-the-students-ate-their-lunch",
+    "href": "slides.html#using-r-we-can-plot-where-the-students-ate-their-lunch",
+    "title": "Slides",
+    "section": "Using R, we can plot where the students ate their lunch…",
+    "text": "Using R, we can plot where the students ate their lunch…"
+  },
+  {
+    "objectID": "slides.html#this-was-based-on-a-real-life-outbreak-in-melbourne",
+    "href": "slides.html#this-was-based-on-a-real-life-outbreak-in-melbourne",
+    "title": "Slides",
+    "section": "This was based on a real life outbreak in Melbourne !",
+    "text": "This was based on a real life outbreak in Melbourne !\n\nABC New 2015"
+  },
+  {
+    "objectID": "slides.html#other-examples-where-r-and-coding-can-be-harnessed-include",
+    "href": "slides.html#other-examples-where-r-and-coding-can-be-harnessed-include",
+    "title": "Slides",
+    "section": "Other Examples Where R and Coding Can Be Harnessed Include:",
+    "text": "Other Examples Where R and Coding Can Be Harnessed Include:\n\nYou can make your own PDF or Word Document\nApplications\nWebsites\nComplex analyses and statistics (main purpose)\nThis presentation!\n\n\nTell teachers that we are happy to provide resources for coding enthusiasts.\nOur online book of today’s lesson\nRStudio Education for Beginners\nR for Data Science\nThe Epidemiologist R Handbook\nR You With Me\nR-Graph Gallery"
+  }
+]
